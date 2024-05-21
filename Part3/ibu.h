@@ -1,5 +1,5 @@
 #ifndef IBU_H
-#define IBU-H
+#define IBU_H
 
 class ibu {
 public:
@@ -11,6 +11,7 @@ public:
 	}
 	~ibu() {
 		cout << "ibu \"" << nama << "\"tidak ada\n";
-
 	}
+	void tambahAnak(anak*);
+	void cetakAnak();
 };
