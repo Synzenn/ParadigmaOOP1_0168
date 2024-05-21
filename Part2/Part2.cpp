@@ -2,12 +2,12 @@
 #include <string>
 using namespace std;
 
-#include jantung.h
+#include 
 #include 
 
 
 int main()
 {
-    std::cout << "Hello Nigga!\n";
+   
 }
 
