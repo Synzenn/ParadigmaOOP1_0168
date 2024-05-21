@@ -2,5 +2,6 @@
 #define IBU-H
 
 class ibu {
+public:
 
 };
