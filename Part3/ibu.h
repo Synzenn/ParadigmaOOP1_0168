@@ -10,6 +10,7 @@ public:
 		cout << "ibu" \"" << nama << "\" tidak ada\n";
 	}
 	~ibu() {
-		
+		cout << "ibu \"" << nama << "\"tidak ada\n";
+
 	}
 };
